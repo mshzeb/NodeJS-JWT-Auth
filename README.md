@@ -7,7 +7,7 @@ Type `npm install` to install the dependencies written in package.json configura
 
 The `npm install` command creates `node_modules` directory in the project directory and install the following packages:
 
-1.`nodemon`: `Nodemon is a command-line interface that wraps your Node app, watch for file system and` **automatically reloads the server when any changes have been made to the file without having to manually reload the server every time the file is saved.**
+1.`nodemon`: `Nodemon is a command-line interface that wraps your Node app, watch for file system and` **`automatically reloads the server when any changes have been made to the file without having to manually reload the server every time the file is saved.**`
 
 2.`dotenv`: `This npm package is needed to load the environment variables (or tokens) from .env file into process.env environment variable.`
 
